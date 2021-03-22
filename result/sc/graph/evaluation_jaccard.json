@@ -1,0 +1,8 @@
+{
+    "dataset": "ppi",
+    "metric": "jaccard similarity",
+    "task": "debias the input graph",
+    "diff": 1.034504879751878,
+    "nmi": 0.8682420701208994,
+    "bias": 0.19534454221269826
+}

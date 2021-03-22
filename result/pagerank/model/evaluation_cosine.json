@@ -1,0 +1,14 @@
+{
+    "dataset": "ppi",
+    "metric": "cosine similarity",
+    "task": "debias the mining model",
+    "diff": 0.2799128177329693,
+    "kl": 0.00956437934504764,
+    "precision": {
+        "50": 0.9
+    },
+    "ndcg": {
+        "50": 0.9283320973565875
+    },
+    "bias": 0.674944673637444
+}

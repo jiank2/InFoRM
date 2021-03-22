@@ -1,0 +1,14 @@
+{
+    "dataset": "ppi",
+    "metric": "cosine similarity",
+    "task": "debias the input graph",
+    "diff": 0.3280772974802958,
+    "kl": 0.008071437274667047,
+    "precision": {
+        "50": 0.78
+    },
+    "ndcg": {
+        "50": 0.8381436001251663
+    },
+    "bias": 0.686652500412535
+}

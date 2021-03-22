@@ -1,0 +1,8 @@
+{
+    "dataset": "ppi",
+    "metric": "jaccard similarity",
+    "task": "debias the mining model",
+    "diff": 0.9943213464407561,
+    "nmi": 0.6968137058881874,
+    "bias": 0.6702471197888372
+}
