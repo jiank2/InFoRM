@@ -26,7 +26,7 @@ We provide three mutually exclusive debiasing method in `method` folder:
 
 ## Demos
 
-Please check our demos in `demo_{#1}.ipynb` where {#1} can be PageRank, spectral_clustering or LINE.
+Please check our demos in `demo_{#1}.ipynb` where `{#1}` can be PageRank, spectral_clustering or LINE.
 
 ## Reference
 
